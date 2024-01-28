@@ -1,7 +1,9 @@
 # stock_hypergro
 
 A backend application to access and manage data from the Bombay Stock Exchange (BSE) using Node.js.
+
 The script includes:
+
 ● Downloading the Equity Bhavcopy ZIP from the BSE website.
 
 ● Extracting and reading the CSV file in the ZIP.
